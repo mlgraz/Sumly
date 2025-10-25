@@ -1,2 +1,2 @@
 # Sumly
-Simple budgeting app
+Simple budgeting app focused on local-only budgeting with SQLite storage.
