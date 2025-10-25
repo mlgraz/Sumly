@@ -1,2 +1,2 @@
-# dollarDown
+# Sumly
 Simple budgeting app
